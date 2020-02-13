@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using AulasMVCWeb.Models;
+using AulasMVCWeb.Models.ViewModels;
 
 namespace AulasMVCWeb.Controllers
 {
